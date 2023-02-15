@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca:wght@100;200;400&display=swap');
 
 :root{
@@ -65,7 +66,6 @@ body{
     background-color: #3f0064;
     opacity: .6;
     position: absolute;
-}
 }
 .card__figure img{
     display: block;
